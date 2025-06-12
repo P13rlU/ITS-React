@@ -62,7 +62,7 @@ Se desideri contribuire, sentiti libero di fare una pull request. Ogni suggerime
 
 Se hai domande o suggerimenti, puoi contattare i maintainers del progetto:
 
-- **P13rLu1**: [GitHub Profile](https://github.com/P13rLu1)
+- **P13rLu**: [GitHub Profile](https://github.com/P13rLu)
 
 ---
 
